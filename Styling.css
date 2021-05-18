@@ -1,0 +1,26 @@
+span {
+    color: turquoise;
+}
+
+.h1 {
+    color: white;
+    background-color: black;
+    margin: 5 px;
+}
+
+.h2 {
+    color: white;
+    background-color: purple;
+    margin: 5 px;
+    text-align: center;
+    font-style: italic;
+    
+}
+
+.h3 {
+    color: purple;
+    background-color: royalblue;
+    margin: 5 px;
+    text-align: right;
+    text-decoration-line: underline;
+}
